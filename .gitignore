@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Build artifacts & cache (Hardhat, Truffle, Foundry)
+artifacts/
+cache/
+coverage/
+coverage.json
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled bytecode / binaries
+*.bin
+*.abi
+
+# Typechain (jika pakai)
+typechain/
+typechain-types/
+
+# Test results
+junit.xml
+
+# Misc
+dist/
+build/
