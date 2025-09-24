@@ -43,3 +43,6 @@ junit.xml
 # Misc
 dist/
 build/
+
+# path of 2 main folder for Simulation SWC/s
+.code-workspace
